@@ -1,8 +1,47 @@
 /* comentario CSS */
-p {
-    color: aqua;
+body {
+    background-image: url("/assets/imagenes/estrellas.jpg");
 }
 
-h2 {
-    color: blueviolet;
+table{
+    background-color:#000000 ;
+    border: 2px solid #FFFFFF;
+    border-collapse: collapse;
+}
+
+th{
+    color: #FFFFFF;
+}
+
+td{
+    color: #FFFFFF;
+    border: 2px solid #FFFFFF;
+    text-align: center;
+}
+
+
+footer{
+    background-color: #000000;
+}
+
+p{
+    color: #FFFFFF;
+    text-align: center;
+}
+
+h1{
+    color: #FFFFFF;
+    text-align: center;
+}
+h3{
+    color: #FFFFFF;
+    text-align: center;
+}
+
+h6{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
 }

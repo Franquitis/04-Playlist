@@ -724,16 +724,3 @@ celeste:#73A9FF
 rosa:#F1A2FF
 violeta:#8154FF
 
-paleta 3 verdes
-#79BA00
-#507A00
-#A2FA00
-#263B00
-#92E000
-
-paleta 4 verdes
-#18BA74
-#107A4C
-#20FA9C
-#083B25
-#1EE08C
