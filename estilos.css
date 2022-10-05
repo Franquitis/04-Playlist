@@ -1,0 +1,104 @@
+/* comentario CSS */
+body {
+    background-image: url("/assets/imagenes/estrellas.jpg");
+}
+
+table{
+    background-color:#000000 ;
+    border: 2px solid #FFFFFF;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+th{
+    color: #FFFFFF;
+}
+
+td{
+    color: #FFFFFF;
+    border: 2px solid #FFFFFF;
+    text-align: center;
+}
+
+
+footer{
+    background-color: #000000d0;
+}
+
+p{
+    color: #FFFFFF;
+    text-align: center;
+}
+
+h1{
+    color: #FFFFFF;
+    text-align: center;
+}
+h3{
+    color: #FFFFFF;
+    text-align: center;
+}
+
+h6{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+header{
+    background-color: #000000a1;
+}
+
+#portobonito{
+    background-image: url("/assets/imagenes/playa2.jpg");
+}
+
+#headermeportobonito{
+    background-color: rgba(177, 18, 105, 0.295);
+}
+
+#footerportobonita{
+    background-color: rgba(177, 18, 105, 0.295);
+}
+
+#fondoefecto{
+    background-image: url("/assets/imagenes/playa2.jpg");
+}
+
+#headerefecto{
+    background-color: rgba(177, 18, 105, 0.295);
+}
+
+#footerefecto{
+    background-color: rgba(177, 18, 105, 0.295);
+}
+
+#merehuso{
+    background-image: url("/assets/imagenes/olas3.jpg");
+}
+
+#headerrehuso{
+    background-color: rgba(1, 56, 63, 0.637);
+}
+
+#footermerehuso{
+    background-color: rgba(43, 21, 0, 0.719);
+}
+
+
+#merehuso p {
+    background-color: rgba(0, 0, 0, 0.493);
+}
+
+.inicio{
+    display: flex;
+    justify-content: center;
+}
+
+.letra {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
